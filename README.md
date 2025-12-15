@@ -1,2 +1,2 @@
-# Zepto-Data-analysis-Using-SQL
+# Zepto-Data-Analysis-Using-SQL
 This project analyzes Zepto’s product and inventory data using SQL to uncover insights related to pricing, discounts, stock availability, and category level performance. It includes data exploration, cleaning, and business focused analysis using aggregations and conditional logic. The project demonstrates practical SQL skills applied to a real world e-commerce dataset.
