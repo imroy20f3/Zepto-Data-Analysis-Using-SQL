@@ -1,5 +1,5 @@
 
-create table zepto(
+CREATE Table zepto(
 sku_id SERIAL  PRIMARY KEY,
 category VARCHAR(120),
 name VARCHAR(150) NOT NULL,
@@ -146,4 +146,5 @@ SUM(weightInGms * availableQuantity) AS total_weight
 FROM zepto
 GROUP BY category
 ORDER BY total_weight;
+
 
